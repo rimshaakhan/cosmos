@@ -21,6 +21,7 @@ r<sub>n</sub> = max (p<sub>i</sub> + r<sub>n-i</sub>)   for all 1 <= i <= n
 
 ## Complexity
 Time complexity : O(n^2)
+
 Space complexity : O(n)
 
 ---
